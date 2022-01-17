@@ -5,34 +5,19 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Appland Bootstrap Template - Index</title>
+  <title>Selamat Datang | e-mart</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
-
-  <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Appland - v4.7.0
-  * Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -42,37 +27,19 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">Appland</a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <h1><a href="index.html">e-mart</a></h1>
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#features">App Features</a></li>
-          <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+          <li><a class="nav-link scrollto" href="#features">Tentang Kami</a></li>
+          <li><a class="nav-link scrollto" href="#gallery">Tampilan</a></li>
+          <li><a class="nav-link scrollto" href="#pricing">Harga</a></li>
           <li><a class="nav-link scrollto" href="#faq">F.A.Q</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#features">Get Started</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Vendor</a></li>
+          <li><a class="getstarted scrollto" href="https://vendor.e-mart.co.id/user/signup">Daftar Vendor</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -87,8 +54,8 @@
       <div class="row">
         <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
           <div>
-            <h1>App landing page template</h1>
-            <h2>Lorem ipsum dolor sit amet, tota senserit percipitur ius ut, usu et fastidii forensibus voluptatibus. His ei nihil feugait</h2>
+            <h1>Selamat Datang di e-mart</h1>
+            <h2>Aplikasi Kami menyediakan tempat untuk memasarkan produk anda melalui aplikasi kami, dengan kemudahan transaksi dan pencarian lokasi yang efektif</h2>
             <a href="#" class="download-btn"><i class="bx bxl-play-store"></i> Google Play</a>
             <a href="#" class="download-btn"><i class="bx bxl-apple"></i> App Store</a>
           </div>
@@ -108,8 +75,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>App Features</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Fitur Aplikasi</h2>
+          <p>Aplikasi kami menyediakan beberapa fitur yang akan membantu bisnis anda, dari segi manajemen produk,manajemen pelanggan, promo, transaksi</p>
         </div>
 
         <div class="row no-gutters">
@@ -118,33 +85,34 @@
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
                   <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <h4>Produk diakses kapanpun</h4>
+                  <p>Produk yang diinput bisa dilihat oleh siapa saja dan bisa di share ke semua pelanggan anda</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4>Promosi Ke Pelanggan Terdekat</h4>
+                  <p>Promosi yang bisa dilakukan melalui popup aplikasi e-mart, 
+                    akan sangat membantu anda menjangkau konsumen</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                   <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <h4>Toko yang lebih dari Satu</h4>
+                  <p>Pembuatan toko yang bisa lebih dari satu, hanya dengan satu akun, memudahkan anda mengontrol semua bisnis anda</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <h4>Keamanan Data</h4>
+                  <p>Keamanan data anda denan enkripsi yang kami lakukan untuk mengamankan Akun anda</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
                   <i class="bx bx-atom"></i>
-                  <h4>Molestiae dolor</h4>
-                  <p>Et fuga et deserunt et enim. Dolorem architecto ratione tensa raptor marte</p>
+                  <h4>Menghubungkan Semua Vendor</h4>
+                  <p>Fitur Chat untuk anda menghubungi ke sesama vendor untuk memperluas wawasan jaringan bisnis anda</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
                   <i class="bx bx-id-card"></i>
-                  <h4>Explicabo consectetur</h4>
-                  <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                  <h4>Share Tokomu</h4>
+                  <p>Share Tokomu anda agar bisa di lihat oleh para pelanggan anda, untuk menghemat biaya pemasaran dan toko anda semakin dikenal</p>
                 </div>
               </div>
             </div>
